@@ -1,6 +1,10 @@
 # Check-In-Application-For-Impact-Kids
 ⚠️ Due to information protection, this repository contains only the documentation for the app. The source code is not included. The app is for private use by Impact Church in Timișoara.
 
+🚀 Technologies Used:
+-🎨 Frontend: Dart & Flutter (UI & app logic)
+-💻 Backend: Node.js with Firebase Firestore (database) & Firebase Cloud Functions"
+
 ![1](https://github.com/user-attachments/assets/7ab9f8c3-4520-4f96-bda8-42f1b311593a)
 ![2](https://github.com/user-attachments/assets/4476507a-2dfe-44f5-92f4-016b10c7735a)
 ![3](https://github.com/user-attachments/assets/b57903f9-8a76-4588-a4c2-896b93ffb0ea)
